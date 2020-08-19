@@ -1,6 +1,6 @@
 # Algorithms
 
-Algorithms with scikit-learn in Python
+Algorithms with scikit-learn and statsmodels in Python
 
 1. Statistical learning
 
