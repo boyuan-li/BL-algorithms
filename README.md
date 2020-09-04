@@ -8,4 +8,4 @@ Algorithms with scikit-learn and statsmodels in Python
 
 3. [hyperopt](http://hyperopt.github.io/hyperopt/) - distributed asynchronous hyper-parameter optimization
 
-![richard](http://gph.is/207FPgC)
+![richard](https://media.giphy.com/media/3o6EhJKOFsjqVZniUM/giphy.gif)
