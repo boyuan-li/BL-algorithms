@@ -2,8 +2,8 @@
 
 Algorithms with scikit-learn and statsmodels in Python
 
-1. Statistical learning
+1. [scikit-learn](https://scikit-learn.org/stable/) - machine learning library
 
-2. Machine learning 
+2. [statsmodels](https://www.statsmodels.org/stable/index.html) - statistical models
 
-3. Deep learning 
+3. [hyperopt](http://hyperopt.github.io/hyperopt/) - distributed asynchronous hyper-parameter optimization
