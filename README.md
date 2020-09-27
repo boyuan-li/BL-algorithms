@@ -14,4 +14,6 @@ Algorithms with scikit-learn and statsmodels in Python
 
 6. [catboost](https://github.com/catboost/catboost) - gradient boosting algorithm
 
+7. [autogluon](https://github.com/awslabs/autogluon) - Auto ML and DL
+
 ![richard](https://media.giphy.com/media/3o6EhJKOFsjqVZniUM/giphy.gif)
