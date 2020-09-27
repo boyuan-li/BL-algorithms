@@ -10,4 +10,8 @@ Algorithms with scikit-learn and statsmodels in Python
 
 4. [mlflow](https://github.com/mlflow/mlflow) - streamline machine learning development
 
+5. [pycaret](https://github.com/pycaret/pycaret) - low-code machine learning library
+
+6. [catboost](https://github.com/catboost/catboost) - gradient boosting algorithm
+
 ![richard](https://media.giphy.com/media/3o6EhJKOFsjqVZniUM/giphy.gif)
